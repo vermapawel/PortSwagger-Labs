@@ -1,0 +1,4 @@
+Introduction
+
+Directory Traversal is a vulnerability that happens when a web application doesn’t properly sanitize user input in file paths. Attackers can manipulate parameters to “traverse” the server’s directory structure and access files outside the intended folder.
+
