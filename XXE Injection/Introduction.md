@@ -1,4 +1,4 @@
-<img width="1000" height="414" alt="image" src="https://github.com/user-attachments/assets/4f91d303-92b8-4a43-b9c1-7b210f0217ea" /><img width="1000" height="350" alt="image" src="https://github.com/user-attachments/assets/03d82ac0-432c-4f46-9341-88f8d91b4685" />**XXE Injection || Introduction**
+**XXE Injection || Introduction**
 
 <img width="1000" height="552" alt="image" src="https://github.com/user-attachments/assets/1ca6cb84-e4aa-4041-b241-d16a31c4d36f" />
 
